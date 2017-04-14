@@ -1,14 +1,14 @@
 {
   "name": "patternfly-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "An Atom.io theme to go with your PatternFly development.",
   "keywords": [
     "syntax",
     "theme",
     "PatternFly"
   ],
-  "repository": "https://github.com/atom/patternfly-syntax",
+  "repository": "https://github.com/mindreeper2420/atom-patternfly-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
