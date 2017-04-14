@@ -1,7 +1,5 @@
 # patternfly-syntax theme
 
-A short description of your theme.
+This is a PatternFly syntax theme for the Atom.io editor, inspired by the open source [PatternFly](https://www.patternfly.org) library.
 
-![A screenshot of your theme](styles/PatternFly-Syntax-Screenshot.png)
-
-Recommended font family: [Overpass](http://overpassfont.org/)
+![A screenshot of your theme](https://github.com/mindreeper2420/atom-patternfly-syntax/blob/master/styles/PatternFly-Syntax-Screenshot.png)
