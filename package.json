@@ -1,7 +1,7 @@
 {
   "name": "atom-patternfly-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "An Atom.io theme to go with your PatternFly development :-)",
   "keywords": [
     "syntax",
