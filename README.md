@@ -2,4 +2,4 @@
 
 This is a PatternFly syntax theme for the Atom.io editor, inspired by the open source [PatternFly](https://www.patternfly.org) library.
 
-![A screenshot of your theme](http://imgur.com/wSwGoyn)
+![A screenshot of your theme](http://i.imgur.com/wSwGoyn.png)
